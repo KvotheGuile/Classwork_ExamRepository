@@ -21,7 +21,7 @@ val notificationItems = listOf(
         "Nueva convocatoria",
         "Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.",
         4,
-        ago(20 * DAY)
+        ago(1 * MINUTE)
     ),
     NotificationItem(
         0,
