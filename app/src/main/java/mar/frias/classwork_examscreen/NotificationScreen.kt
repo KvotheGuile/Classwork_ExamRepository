@@ -110,7 +110,7 @@ fun NotificationScreenPreview(){
             onBack = {},
             onClickNav = {it -> },
             onClickNotif = {it -> },
-            selectedItem = 1
+            selectedItem = 2
         )
     }
 }

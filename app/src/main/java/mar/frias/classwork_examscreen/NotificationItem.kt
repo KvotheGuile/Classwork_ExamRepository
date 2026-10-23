@@ -17,6 +17,13 @@ private fun ago(millis: Long) = Date(System.currentTimeMillis() - millis)
 
 val notificationItems = listOf(
     NotificationItem(
+        5,
+        "Nueva convocatoria",
+        "Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.\"Conoce los requisitos y las fechas de solicitud. Conoce los requisitos y las fechas de solicitud.",
+        4,
+        ago(20 * DAY)
+    ),
+    NotificationItem(
         0,
         "Renovacion de becas",
         "Nueva informacion sobre renovacion de becas. Consulta los detalles en la aplicacion",
@@ -48,7 +55,7 @@ val notificationItems = listOf(
         4,
         "Nueva convocatoria",
         "Conoce los requisitos y las fechas de solicitud.",
-        3,
+        4,
         ago(20 * DAY)
     )
 )
